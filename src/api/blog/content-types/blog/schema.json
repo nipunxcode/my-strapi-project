@@ -27,8 +27,8 @@
         "audios"
       ]
     },
-    "content": {
-      "type": "blocks"
+    "blogcontent": {
+      "type": "richtext"
     },
     "author": {
       "type": "relation",
